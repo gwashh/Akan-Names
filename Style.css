@@ -1,0 +1,15 @@
+body {
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.landingPage {
+    margin: 10em 0em;
+    padding: 2em;
+    border-radius: 7%;
+    background-color: rgb(245, 185, 96);
+}
+
+.radio {
+    margin: 1em 0em;
+}
