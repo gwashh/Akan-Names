@@ -8,7 +8,7 @@ Setup/Installation Requirements
 None
 
 Live link
-Follow the link https://https://github.com/gwashh/Akan-Names/
+Follow the link https://github.com/gwashh/Akan-Names/
 Known Bugs
 {main.js is not linked to index.html }
 
